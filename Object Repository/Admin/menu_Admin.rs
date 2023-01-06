@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menu_Admin</name>
+   <tag></tag>
+   <elementGuidId>902a953c-2f38-40cf-8e90-ae3b12b7d2e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href = '&quot;/web/index.php/admin/viewAdminModule&quot;']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e5684d1b-3b0c-4b6f-8218-f68f9065d9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>&quot;/web/index.php/admin/viewAdminModule&quot;</value>
+      <webElementGuid>0e5523f4-6b6e-4721-82a8-1e4098c64732</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
